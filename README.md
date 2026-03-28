@@ -1,4 +1,4 @@
-# Demo Project
+# Demo Private
 
 This repository serves as a demonstration project. It showcases how to set up a simple application and provides example code for educational purposes.
 
